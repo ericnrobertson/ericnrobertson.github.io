@@ -22,10 +22,10 @@ repository               : "ericnrobertson/ericnrobertson.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "WebsiteTemporaryProfile.jpg"
   name             : "Eric Robertson"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in economics"
+  bio              : "Ph.D. candidate in economics"
   location         : "Charlottesville, VA"
   employer         : "University of Virginia"
   uri              : # URL
@@ -47,13 +47,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "ericnrobertson"
+  github           : #"ericnrobertson"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
