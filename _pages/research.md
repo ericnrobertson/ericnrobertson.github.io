@@ -5,32 +5,13 @@ collection: research
 permalink: /research/all
 ---
 
-**Working papers**
+##Working papers
 
-**Malthus, Poverty, and Famines in British India: The Lessons From Haileybury _(job market paper)_**
-_Agencies often fail to implement government programs as intended by policymakers. I investigate how exposure to economic ideas can alter implementation by government agents, focusing on the influence of Malthusian ideas on British bureaucrats in colonial India. Leveraging the death of Malthus at the East India Company College at Haileybury in 1834 as a natural experiment, I find that colonial officials who studied under Malthus implement harsher fiscal policies in response to rainfall shortages, a proxy for poverty. Malthus-trained administrators provide between 0.10 and 0.25 SD less relief across every common anti-poverty relief measure. Evidence from performance ratings suggests that these responses did not align with government priorities. The results offer new evidence concerning how economic ideas shape government policy through their influence on bureaucrats, and have implications for the design of training programs in order to better align implementation by agents with the intent of principals.
+###Malthus, Poverty, and Famines in British India: The Lessons From Haileybury _(job market paper)_
+> Agencies often fail to implement government programs as intended by policymakers. I investigate how exposure to economic ideas can alter implementation by government agents, focusing on the influence of Malthusian ideas on British bureaucrats in colonial India. Leveraging the death of Malthus at the East India Company College at Haileybury in 1834 as a natural experiment, I find that colonial officials who studied under Malthus implement harsher fiscal policies in response to rainfall shortages, a proxy for poverty. Malthus-trained administrators provide between 0.10 and 0.25 SD less relief across every common anti-poverty relief measure. Evidence from performance ratings suggests that these responses did not align with government priorities. The results offer new evidence concerning how economic ideas shape government policy through their influence on bureaucrats, and have implications for the design of training programs in order to better align implementation by agents with the intent of principals.
 
-**The Salt Shock: Scarcity, Substitution, and Surprising Health Spillovers _(with Ramiro Burga, Sisir Debnath, and Sheetal Sekhri)_**
-_We study the long-run health impacts of a 19th-century colonial tax that
-    sharply altered salt prices across a fiscal border in British India. To enforce the
-    salt tax, the British built a 2,500-mile customs line, the salt hedge, which raised
-    salt prices and limited access in eastern regions for several decades. Using a spatial
-    regression discontinuity design around the historical hedge, we show that individuals east of the hedge, who faced prolonged exposure to salt scarcity, exhibit lower
-    rates of hypertension and heart disease today. Historical archival records confirm
-    sustained salt price gaps during the hedge’s operation (1836–1879), and contemporary consumption data reveal persistent differences in salt use across regions. Our
-    results uncover a surprising health spillover from an extractive institution, driven
-    by persistent behavioral adaptation in consumption. We highlight a novel pathway
-    through which fiscal policies can leave a long-lasting imprint on health, even after
-    the policy itself has abolished.
+###The Salt Shock: Scarcity, Substitution, and Surprising Health Spillovers _(with Ramiro Burga, Sisir Debnath, and Sheetal Sekhri)_
+> We study the long-run health impacts of a 19th-century colonial tax that sharply altered salt prices across a fiscal border in British India. To enforce the salt tax, the British built a 2,500-mile customs line, the salt hedge, which raised salt prices and limited access in eastern regions for several decades. Using a spatial regression discontinuity design around the historical hedge, we show that individuals east of the hedge, who faced prolonged exposure to salt scarcity, exhibit lower rates of hypertension and heart disease today. Historical archival records confirm sustained salt price gaps during the hedge’s operation (1836–1879), and contemporary consumption data reveal persistent differences in salt use across regions. Our results uncover a surprising health spillover from an extractive institution, driven by persistent behavioral adaptation in consumption. We highlight a novel pathway through which fiscal policies can leave a long-lasting imprint on health, even after the policy itself has abolished.
 
-**Consequences of Elevated Fluoride Exposure for Cognitive Development _(with Ryan Brown, Emily Gonzalez, Rajiv Gupta, Amzad Hossain, Thomas Kishore, and Sheetal Sekhri)_**
-_We establish causal links between elevated fluoride exposure in drinking water and
-    the cognition and health of children by leveraging local geogenic factors that generate
-    fluoride variation in household-level drinking water. We consistently find that elevated
-    exposure generates an 8-10% deficit in the general intelligence of children. In addi-
-    tion, the children exposed to high levels of fluoride in their drinking water also have
-    less human capital accumulation, as measured by math and language proficiency tests,
-    worse dental health, and suffer from important physical limitations. We conclude that
-    environmental exposure to elevated fluoride leads to a self-reinforcing cycle of poverty:
-    exposure affects children’s cognition and health, leading to adverse inter-generational
-    consequences, depressing economic mobility, and perpetuating inequality.
+###Consequences of Elevated Fluoride Exposure for Cognitive Development _(with Ryan Brown, Emily Gonzalez, Rajiv Gupta, Amzad Hossain, Thomas Kishore, and Sheetal Sekhri)_
+> We establish causal links between elevated fluoride exposure in drinking water and the cognition and health of children by leveraging local geogenic factors that generate fluoride variation in household-level drinking water. We consistently find that elevated exposure generates an 8-10% deficit in the general intelligence of children. In addi- tion, the children exposed to high levels of fluoride in their drinking water also have less human capital accumulation, as measured by math and language proficiency tests, worse dental health, and suffer from important physical limitations. We conclude that environmental exposure to elevated fluoride leads to a self-reinforcing cycle of poverty: exposure affects children’s cognition and health, leading to adverse inter-generational consequences, depressing economic mobility, and perpetuating inequality.
