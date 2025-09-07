@@ -1,8 +1,9 @@
 
 ---
+layout: archive
 title: "Research"
-collection: research
 permalink: /research/all
+author_profile: true
 ---
 
 ##Working papers

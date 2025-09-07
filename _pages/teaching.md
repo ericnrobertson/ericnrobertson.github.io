@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching assistant, University of Virginia
+## Teaching assistant, University of Virginia
 
 - ECON 4430, Environmental Economics, Spring 2025
 - ECON 3430, Economics of Sustainability and the Environment, Fall 2024
