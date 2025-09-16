@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the University of Virginia and on the job market for the 2025-2026 academic year. My research interests are in applied microeconomics, with a focus on development, political economy, and environment. My job market paper focuses on understanding how economic ideas can affect principal-agent alignment in the public sector.
+I am a Ph.D. candidate at the University of Virginia and on the job market for the 2025-2026 academic year. 
 
-In general, much of my work focuses on econometric analyses of novel data, either collected from the field, constructed from archival records, or imputed from text using natural language processing tools. I primarily examine settings which allow for causal inference from observational data.
+My research interests are in applied microeconomics, with a focus on development, political economy, and environment. My job market paper focuses on understanding how economic ideas affect policy implementation in the public sector.
+
+<!-- In general, much of my work focuses on econometric analyses of novel data, either collected from the field, constructed from archival records, or imputed from text using natural language processing tools. I primarily examine settings which allow for causal inference from observational data. -->
 
  I expect to graduate in May 2026. You can contact me at [enr2ac@virginia.edu](mailto:enr2ac@virginia.edu).
