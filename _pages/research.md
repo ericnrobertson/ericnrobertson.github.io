@@ -15,3 +15,9 @@ author_profile: true
 
 ### Consequences of Elevated Fluoride Exposure for Cognitive Development _(with Ryan Brown, Emily Gonzalez, Rajiv Gupta, Amzad Hossain, Thomas Kishore, and Sheetal Sekhri)_
 > We establish causal links between elevated fluoride exposure in drinking water and the cognition and health of children by leveraging local geogenic factors that generate fluoride variation in household-level drinking water. We consistently find that elevated exposure generates an 8-10% deficit in the general intelligence of children. In addition, the children exposed to high levels of fluoride in their drinking water also have less human capital accumulation, as measured by math and language proficiency tests, worse dental health, and suffer from important physical limitations. We conclude that environmental exposure to elevated fluoride leads to a self-reinforcing cycle of poverty: exposure affects children’s cognition and health, leading to adverse inter-generational consequences, depressing economic mobility, and perpetuating inequality.
+
+## Work in progress
+
+### Competitive Selection and Bureaucrat Performance: Evidence from the end of Patronage in British India
+
+### The Long Run Health Consequences of Early-Life Exposure to Fluoride: Evidence from Mexico _(with Sheetal Sekhri)_
