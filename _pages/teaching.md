@@ -17,6 +17,11 @@ T.A. for Prof. William Shobe <br>
 Undergraduate level <br>
 Fall 2024 <br>
 
+ECON 2020, Principles of Economics: Macroeconomics <br>
+T.A. for Prof. Carter Doyle <br>
+Undergraduate level <br>
+Summer 2023 <br>
+
 ECON 4370, Behavioral Finance <br>
 T.A. for Prof. Edwin Burton <br>
 Undergraduate level <br>
