@@ -7,7 +7,7 @@ author_profile: true
 
 ## Teaching, University of Virginia
 
-ECON 4430, Environmental Economics, Spring 2025 <br>
+ECON 4430, Environmental Economics <br>
 T.A. for Prof. Sheetal Sekhri <br>
 Undergraduate level <br>
 Spring 2025 <br>
