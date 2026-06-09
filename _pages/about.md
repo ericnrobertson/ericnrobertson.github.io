@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I earned my doctorate in economics from the University of Virginia in May 2026, and will join the Department of Economics at Colgate University as an Assistant Professor in July 2026.
+I earned my doctorate in economics from the University of Virginia in May 2026, and I will join the Department of Economics at Colgate University as an Assistant Professor in July 2026.
 
 My research lies at the intersection of development economics, political economy, and economic history. My job market paper examines how ideas affect policy.
 
