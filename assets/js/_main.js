@@ -139,4 +139,12 @@ $(document).ready(function () {
     preventDefault: false,
   });
 
+  // Ensure file/download links open in a new tab/window for safety and UX
+  $("a[href*='/files/'], a[href$='.pdf'], a[href$='.zip'], a[href$='.ppt'], a[href$='.pptx'], a[href$='.doc'], a[href$='.docx']").each(function () {
+    if (!$(this).attr('target')) {
+      $(this).attr('target', '_blank');
+      $(this).attr('rel', 'noopener noreferrer');
+    }
+  });
+
 });
