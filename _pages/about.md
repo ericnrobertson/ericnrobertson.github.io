@@ -9,8 +9,8 @@ redirect_from:
 
 I earned my doctorate in economics from the University of Virginia in May 2026, and I will join the Department of Economics at Colgate University as an Assistant Professor in July 2026.
 
-My research lies at the intersection of development economics, political economy, and economic history. In my job market paper, I study how ideas can affect policy.
+My research lies at the intersection of development economics, political economy, and economic history. 
 
-In general, much of my work focuses on econometric analyses of novel data, either collected from the field, constructed from archival records, or imputed from text using natural language processing tools. I primarily examine settings which allow for causal inference from observational data.
+In my job market paper, I study how ideas can affect policy. In general, much of my work focuses on econometric analyses of novel data, either collected from the field, constructed from archival records, or imputed from text using natural language processing tools. I primarily examine settings which allow for causal inference from observational data.
 
 You can contact me at [enr2ac@virginia.edu](mailto:enr2ac@virginia.edu).
