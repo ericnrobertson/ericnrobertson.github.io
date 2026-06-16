@@ -13,4 +13,4 @@ My research lies at the intersection of development economics, political economy
 
 In my job market paper, I study how ideas can affect policy. In general, much of my work focuses on econometric analyses of novel data, either collected from the field, constructed from archival records, or imputed from text using natural language processing tools. I primarily examine settings which allow for causal inference from observational data.
 
-You can contact me at [enr2ac@virginia.edu](mailto:enr2ac@virginia.edu).
+You can contact me at [erobertson@colgate.edu](mailto:erobertson@colgate.edu).
