@@ -25,11 +25,11 @@ author:
   avatar           : "WebsiteTemporaryProfile.jpg"
   name             : "Eric Robertson"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. in Economics, UVA"
-  location         : "Charlottesville, VA"
-  employer         : "University of Virginia"
+  bio              : "Assistant Professor of Economics, Colgate University"
+  location         : "Hamilton, NY"
+  employer         : "Colgate University"
   uri              : # URL
-  email            : "enr2ac@virginia.edu" 
+  email            : "erobertson@colgate.edu" 
 
   # Academic websites
   academia         : # URL
