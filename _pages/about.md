@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Economics at Colgate University. I earned my doctorate in economics from the University of Virginia in May 2026.
+I am an Assistant Professor of Economics at Colgate University. I earned my doctorate in economics from the University of Virginia in May 2026.
 
 My research lies at the intersection of development economics, political economy, and economic history. 
 
