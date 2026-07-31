@@ -11,7 +11,7 @@ author_profile: true
 <div class="paper-links">
 	<a class="paper-link" href="https://voxdev.org/topic/institutions-political-economy/how-economic-ideas-shape-way-governments-deliver-policy" target="_blank" rel="noopener noreferrer">
 		<span class="paper-link__icon" aria-hidden="true">+</span>
-		<span class="paper-link__label">VoxDev</span>
+		<span class="paper-link__label">VoxDev article</span>
 	</a>
 	<a class="paper-link" href="/files/MalthusPolicyImplementation_slides.pdf" target="_blank" rel="noopener noreferrer">
 		<span class="paper-link__icon" aria-hidden="true">+</span>
