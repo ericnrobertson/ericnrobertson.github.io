@@ -8,6 +8,16 @@ author_profile: true
 ## Working papers
 
 ### Economic Ideas and Policy Implementation: Evidence from Malthusian Training in British Indian Bureaucracy _([Job Market Paper](/files/jmp.pdf))_
+<div class="paper-links">
+	<a class="paper-link" href="https://voxdev.org/topic/institutions-political-economy/how-economic-ideas-shape-way-governments-deliver-policy" target="_blank" rel="noopener noreferrer">
+		<span class="paper-link__icon" aria-hidden="true">+</span>
+		<span class="paper-link__label">VoxDev</span>
+	</a>
+	<a class="paper-link" href="/files/MalthusPolicyImplementation_slides.pdf" target="_blank" rel="noopener noreferrer">
+		<span class="paper-link__icon" aria-hidden="true">+</span>
+		<span class="paper-link__label">Slides</span>
+	</a>
+</div>
 > Public officials often fail to implement government policy as directed, yet the role of economic ideas in shaping these implementation choices is poorly understood. This paper provides causal evidence that exposure to economic ideas can durably influence bureaucrat behavior. I study British colonial bureaucrats in India, exploiting a natural experiment created by the abrupt death of Thomas Malthus in 1834, replacing his economics instruction at a bureaucrat training college for that of a contemporary critic, Richard Jones. Whereas Malthus regarded economic distress as a natural mechanism for restoring equilibrium by reducing population growth, Jones disagreed with this view. Linking rainfall shocks to district-level fiscal responses, I show that officials trained by Malthus delivered less relief during droughts, providing 0.10-0.25 SD less aid across all major measures compared with officials taught by Jones. The results reveal that exposure to abstract economic ideas can shape real-world policy implementation for decades.
 
 ### The Salt Shock: Scarcity, Substitution, and Surprising Health Spillovers _([Working Paper](/files/Salt_Hedge_05Aug2025.pdf) with Ramiro Burga, Sisir Debnath, and Sheetal Sekhri)_
