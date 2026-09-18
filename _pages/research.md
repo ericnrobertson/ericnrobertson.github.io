@@ -68,7 +68,7 @@ author_profile: true
 </div>
 
 ### Competitive Selection and Bureaucrat Performance: Evidence from the end of Patronage in British India
-<p class="paper-status"><em>(Draft is preliminary and incomplete)</em></p>
+<p class="paper-status"><em>(Draft: preliminary and incomplete)</em></p>
 
 <div class="paper-actions">
 	<details class="paper-abstract">
